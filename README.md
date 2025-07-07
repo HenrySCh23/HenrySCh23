@@ -3,7 +3,7 @@
 - 🤖 Passionate about ML in medicine & predictive analytics  
 - 💻 Learning Python, data science, and AI applications in health  
 - 🌍 Based in Stockholm, Sweden  
-- 🔗 Connect with me on www.linkedin.com/in/henry-brian-serpa-chumbe-1856b1277
+- 🔗 Connect with me on www.linkedin.com/in/henry-serpa-chumbe-1856b1277
 
 
 <!---
